@@ -1,6 +1,6 @@
 body {
-    --color-primary: #428ae9;
-    --color-primary-dark: #1e47f4;
+    --color-primary: #E7AF6E;
+    --color-primary-dark: #d1924a;
     --color-secondary: #252c6a;
     --color-error: #cc3333;
     --color-success: #4bb544;
@@ -24,6 +24,7 @@ body {
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
     border-radius: var(--border-radius);
     background: #ffffff;
+    height: 400px;
 }
 
 .container,
@@ -127,4 +128,45 @@ body {
 
 .form__link:hover {
     text-decoration: underline;
+}
+
+ul.social {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+ul.social>li {
+    display: inline-block;
+}
+
+ul.social>li>a {
+    display: inline-block;
+    font-size: 18px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px;
+    border-radius: 36px;
+    background-color: #222222;
+    color: #fff;
+    margin: 0 3px 3px 0;
+}
+
+ul.social>li>a:hover {
+    text-decoration: none;
+    background-color: #ee7c22;
+}
+
+.social {
+    margin-top: 100px;
+}
+
+.team {
+    background-color: #6460FF;
+
+}
+
+#tem {
+    background-color: #6460FF;
 }
