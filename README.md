@@ -13,12 +13,12 @@
 **_Project links_**
 -[GitHub](https://github.com/Oljawave/otyrar)
 
-**_Trello Board_**
--[Trello Board](https://trello.com/b/FIjiFtsd/grizzly)
-**_Figma WEB design_**
--[Figma WEB design](https://www.figma.com/file/PZCFhB0vao4Id1jwaE5ihL/Otyrar-UI-design?node-id=0%3A1)
-**_Figma Mobile design_**
--[Figma Mobile design](https://www.figma.com/file/1ELZsTqvFjsj9Lk3ybnPal/IOS-Mobile-App-UI-Design-(Community)?node-id=0%3A1)
+
+-[Trello Board](https://trello.com/b/FIjiFtsd/grizzly) </br>
+
+-[Figma WEB design](https://www.figma.com/file/PZCFhB0vao4Id1jwaE5ihL/Otyrar-UI-design?node-id=0%3A1) </br>
+
+-[Figma Mobile design](https://www.figma.com/file/1ELZsTqvFjsj9Lk3ybnPal/IOS-Mobile-App-UI-Design-(Community)?node-id=0%3A1) </br>
 
 
 **_Our LinkedIn accounts_**
