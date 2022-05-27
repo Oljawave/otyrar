@@ -10,15 +10,16 @@
 **_Our Application_**
 -[OTYRAR IOS](https://github.com/ItaDaur/CodingLabMobile)
 
-**_Project links_**
--[GitHub](https://github.com/Oljawave/otyrar)
+**_Project links_**</br>
+
+[GitHub](https://github.com/Oljawave/otyrar)
 
 
--[Trello Board](https://trello.com/b/FIjiFtsd/grizzly) </br>
+[Trello Board](https://trello.com/b/FIjiFtsd/grizzly) </br>
 
--[Figma WEB design](https://www.figma.com/file/PZCFhB0vao4Id1jwaE5ihL/Otyrar-UI-design?node-id=0%3A1) </br>
+[Figma WEB design](https://www.figma.com/file/PZCFhB0vao4Id1jwaE5ihL/Otyrar-UI-design?node-id=0%3A1) </br>
 
--[Figma Mobile design](https://www.figma.com/file/1ELZsTqvFjsj9Lk3ybnPal/IOS-Mobile-App-UI-Design-(Community)?node-id=0%3A1) </br>
+[Figma Mobile design](https://www.figma.com/file/1ELZsTqvFjsj9Lk3ybnPal/IOS-Mobile-App-UI-Design-(Community)?node-id=0%3A1) </br>
 
 
 **_Our LinkedIn accounts_**
