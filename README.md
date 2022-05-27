@@ -23,6 +23,8 @@
 
 [Figma Mobile design](https://www.figma.com/file/1ELZsTqvFjsj9Lk3ybnPal/IOS-Mobile-App-UI-Design-(Community)?node-id=0%3A1) </br>
 
+[Presentation](https://drive.google.com/file/d/1hYmRbUMYD18ADqHT46ZvCYU3ziLV-PRO/view?usp=sharing) </br>
+
 
 **_Our LinkedIn accounts_**
 > - [GRIZZLY team](https://www.linkedin.com/groups/12672102/)
