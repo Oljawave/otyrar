@@ -25,7 +25,7 @@
 
 
 **_Our LinkedIn accounts_**
-> - [GRIZZLY team](https://github.com/Oljawave/otyrar)
+> - [GRIZZLY team](https://www.linkedin.com/groups/12672102/)
 > - [Komekbaev Zeiin](https://www.linkedin.com/in/zeyin-komekbaev-975a7323b)
 > - [Sardarbekova Akaru](https://www.linkedin.com/in/akaru-sardarbekova-88b340228/)
 > - [Gabdullin Olzhas](https://www.linkedin.com/in/olzhas-gabdullin-87aa7123b/)
