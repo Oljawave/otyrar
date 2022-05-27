@@ -12,7 +12,8 @@
 
 **_Project links_**</br>
 
-[GitHub](https://github.com/Oljawave/otyrar)
+
+[^1]: [GitHub](https://github.com/Oljawave/otyrar)
 
 
 [Trello Board](https://trello.com/b/FIjiFtsd/grizzly) </br>
