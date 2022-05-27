@@ -13,7 +13,8 @@
 **_Project links_**</br>
 
 
- [GitHub](https://github.com/Oljawave/otyrar)
+ [GitHub](https://github.com/Oljawave/otyrar) </br>
+ [BackEnd](https://github.com/Zeiin1) </br>
 
 
 [Trello Board](https://trello.com/b/FIjiFtsd/grizzly) </br>
@@ -25,7 +26,7 @@
 
 **_Our LinkedIn accounts_**
 > - [GRIZZLY team](https://github.com/Oljawave/otyrar)
-> - [Komekbaev Zeiin]()
+> - [Komekbaev Zeiin](https://www.linkedin.com/in/zeyin-komekbaev-975a7323b)
 > - [Sardarbekova Akaru](https://www.linkedin.com/in/akaru-sardarbekova-88b340228/)
 > - [Gabdullin Olzhas](https://www.linkedin.com/in/olzhas-gabdullin-87aa7123b/)
 > - [Sarsenov Dauren](https://www.linkedin.com/in/dauren-sarsenov-7b413a240)
