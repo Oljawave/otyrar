@@ -2,6 +2,7 @@
 
 
 
+**_The platform was created in order to facilitate the work of libraries, get rid of paperwork. And also to make all the conveniences for a person who takes books from the library._**
 
   Made by: 
 > - Gabdullin Olzhas: Design, FrontEnd
